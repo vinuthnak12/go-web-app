@@ -8,7 +8,7 @@ image:
   repository: vinuthnakoganti/docker-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "20139089931"
+  tag: "20140086685"
 
 ingress:
   enabled: false
